@@ -1,3 +1,6 @@
+my name is manjusree kandukuri , bscair , I learn new concept in github
+
+
 Devops Introduction:
          
   Devops = Development + operations
@@ -26,4 +29,5 @@ Automate repetitive task (like server restart, database backups)
  GitHub Basics:
  What is git & GitHub?
 Git = version control system (local)
+
 GitHub = online platform to store git projects
