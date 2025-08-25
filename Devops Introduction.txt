@@ -1,0 +1,29 @@
+Devops Introduction:
+         
+  Devops = Development + operations
+its a culture+set of practices+tools that help:
+ Developers(who write code)
+operations(who deploy/manage systems)
+ Work together,instead of working in silos
+real-time example:
+Imagine you're building a mobile app like Swiggy.
+The  developer writes code to add "Track My Order" feature.
+Without Devops: Developer gives code to ops team -> they manually deploy -> bugs happen -> delays.
+With Devops: code is automatically tested and deployed -> customers get updates faster and safely.
+Devops helps you:
+ Release features faster (like adding new payment methods in Zomato)
+Fix bugs quickly (like fixing login issues in IRCTC)
+Automate repetitive task (like server restart, database backups)
+  
+  plan - Define what to build
+  Develop - write the code
+  Build -Compile code into deployable format
+  Test - 
+  Release- Approve the build for deployment
+  Deploy - push app to
+  Operate keep app running, fix any issues
+  Monitor analyze performance and feedback
+ GitHub Basics:
+ What is git & GitHub?
+Git = version control system (local)
+GitHub = online platform to store git projects
